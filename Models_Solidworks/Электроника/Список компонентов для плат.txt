@@ -1,0 +1,14 @@
+Модуль EEPROM
+Конденсаторы - 8шт, С0402, 1 мкФ, https://www.chipdip.ru/product/c0402c105k9pactu-1 
+Резистор - 2шт, R0402, 4.7 кОм, https://www.chipdip.ru/product0/9000189697
+Микросхемы памяти - 8шт, 24LC256-I/SN SO8, https://www.chipdip.ru/product/24lc256-i-sn
+
+Модуль плата пержигания
+Микросхема - 1шт, IRF8788TRPBF, https://www.chipdip.ru/product/irf8788trpbf
+Резистор - 1шт, R0603, 220 Ом, https://www.chipdip.ru/product0/9000079624
+Резистор - 1шт, R0603, 10 кОм, https://www.chipdip.ru/product0/65097
+
+Модуль плата преобразования логических уровней
+Микросхема - 1шт, (74LVC4245APW,118), https://www.chipdip.ru/product/74lvc4245apw-112
+Пины - 5шт, HDR-M-2.54_1X3
+Пины - 1шт, HDR-M-2.54_1X8
